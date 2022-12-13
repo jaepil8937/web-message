@@ -25,6 +25,7 @@
 	<sqlMap resource="META-INF/ibatis/mappers/emails.xml" />	
 	<sqlMap resource="META-INF/ibatis/mappers/addressBooks.xml" />	
 	<sqlMap resource="META-INF/ibatis/mappers/employees.xml" />	
+	<sqlMap resource="META-INF/ibatis/mappers/messages.xml" />	
 	<sqlMap resource="META-INF/ibatis/mappers/addressGroups.xml" />	
 
 </sqlMapConfig>
